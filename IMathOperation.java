@@ -1,4 +1,4 @@
-public interface MathOperation {
+public interface IMathOperation {
 
     int calculate(int firstNum, int secondNum);
 }
